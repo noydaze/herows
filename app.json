@@ -1,0 +1,13 @@
+{
+    "name": "noydaze",
+    "description": "noydaze",
+    "keywords": ["noydaze"],
+    "env": {
+        "UUID": {
+            "description": "UUID",
+            "value": "47a1ee29-110c-4c43-b890-97523502cc6c"
+        }
+    },
+    "repository": "https://github.com/noydaze/herows",
+    "stack": "container"
+}
